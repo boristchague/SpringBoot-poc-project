@@ -14,3 +14,4 @@ Step to set on the projet:
 5. View résult => http://localhost:8080/api/student
 
 
+![Screenshot from 2023-03-11 15-48-08](https://user-images.githubusercontent.com/45273505/224491246-1c1b394f-6c5b-4bac-a24c-2e99f9732a96.png)
